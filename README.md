@@ -7,6 +7,7 @@ The goal is to identify distinct customer groups based on their **annual income*
 
 ##  Dataset
 - Source: Mall Customers Dataset
+- Kaggle link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 - Features used:
   - Annual Income (k$)
   - Spending Score (1–100)
